@@ -1,6 +1,7 @@
 # Proyecto de Red con Subredes y Servidor de Intranet
 
 Equipo 3
+
 Curso: IMPL SOLUC PLATAF MULTIUSUARIO
 
 Integrantes:
