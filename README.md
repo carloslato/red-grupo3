@@ -12,6 +12,8 @@ Integrantes:
 
 Este proyecto simula una red dividida en múltiples subredes con control de acceso y un servidor de intranet accesible desde todas las subredes. Se utilizó **Cisco Packet Tracer** para la implementación.
 
+Adjunto en este repositorio estan la presentación y el archivo del proyecto en Packet Tracer
+
 
 ## 📌 Objetivos
 
