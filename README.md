@@ -4,10 +4,10 @@ Equipo 3
 Curso: IMPL SOLUC PLATAF MULTIUSUARIO
 
 Integrantes:
-ERIK MAGBIS LEONARDO CALLE
-CARLOS WOLLEY LA TORRE MACHADO
-CARLOS ALBERTO ACEDO RUGEL
-RENATO LUIS YANAMANGO CASANA
+- ERIK MAGBIS LEONARDO CALLE
+- CARLOS WOLLEY LA TORRE MACHADO
+- CARLOS ALBERTO ACEDO RUGEL
+- RENATO LUIS YANAMANGO CASANA
 
 Este proyecto simula una red dividida en múltiples subredes con control de acceso y un servidor de intranet accesible desde todas las subredes. Se utilizó **Cisco Packet Tracer** para la implementación.
 
